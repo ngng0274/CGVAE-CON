@@ -60,7 +60,9 @@ To evaluate the generated molecules, use
 
 ```
 python evaluate.py --dataset qm9|zinc
+python test.py
 ```
+
 
 # Pretrained Models and Generated Molecules
 
