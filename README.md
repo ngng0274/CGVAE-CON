@@ -1,4 +1,4 @@
-# Constrained Graph Variational Autoencoders with Constrastive Learning for Molecule Design
+# Molecule Generation with Contrastive Learning onConstrained Graph Variational Autoencoders
 
 This repository  contains CGVAE-CON that uses contrastive learning through augmentation of latent space of molecular graphs based on  [Constrained Graph Variational Autoencoders for Molecule Design](https://arxiv.org/abs/1805.09076) (CGVAE). 
 
